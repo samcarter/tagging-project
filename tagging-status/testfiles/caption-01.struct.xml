@@ -1,0 +1,124 @@
+<Document
+   id="ID.002"
+  >
+ <Sect
+    id="ID.005"
+   >
+  <section
+     id="ID.006"
+     xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+     Layout:TextAlign="Justify"
+     rolemaps-to="H1"
+    >
+   <?MarkedContent page="1" ?>List of Figures
+  </section>
+  <TOC
+     id="ID.007"
+     title="lof"
+    >
+   <TOCI
+      id="ID.008"
+      title="Figure with caption"
+     >
+    <Reference
+       id="ID.009"
+      >
+     <?MarkedContent page="1" ?>
+     <Link
+        id="ID.010"
+       >
+      <?MarkedContent page="1" ?>
+      <Lbl
+         id="ID.011"
+        >
+       <?MarkedContent page="1" ?>1
+      </Lbl>
+      <?MarkedContent page="1" ?>Figure with caption
+      <?ReferencedObject type="Annot" page="1" ?>
+     </Link>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>1
+    </Reference>
+   </TOCI>
+  </TOC>
+ </Sect>
+ <Sect
+    id="ID.012"
+   >
+  <section
+     id="ID.013"
+     rolemaps-to="H1"
+    >
+   <Lbl
+      id="ID.014"
+     >
+    <?MarkedContent page="1" ?>1
+   </Lbl>
+   <?MarkedContent page="1" ?>Intro
+  </section>
+  <Sect
+     id="ID.015"
+    >
+   <subsection
+      id="ID.016"
+      rolemaps-to="H2"
+     >
+    <Lbl
+       id="ID.017"
+      >
+     <?MarkedContent page="1" ?>1.1
+    </Lbl>
+    <?MarkedContent page="1" ?>Subintro
+   </subsection>
+  </Sect>
+ </Sect>
+ <figures
+    id="ID.003"
+    rolemaps-to="Sect"
+   >
+  <float
+     id="ID.018"
+     rolemaps-to="Note"
+    >
+   <Caption
+      id="ID.022"
+     >
+    <Lbl
+       id="ID.023"
+      >
+     <?MarkedContent page="1" ?>Figure 1:
+    </Lbl>
+    <text
+       id="ID.024"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Center"
+       rolemaps-to="P"
+      >
+     <?MarkedContent page="1" ?>Figure with caption
+    </text>
+   </Caption>
+   <text-unit
+      id="ID.019"
+      rolemaps-to="Part"
+     >
+    <text
+       id="ID.020"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Center"
+       rolemaps-to="P"
+      >
+     <?MarkedContent page="1" ?>
+     <Figure
+        id="ID.021"
+        alt="sample image"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:BBox="{ 221.41376, 433.95892, 389.83409, 560.27574 }"
+       >
+      <?MarkedContent page="1" ?>
+     </Figure>
+     <?MarkedContent page="1" ?>
+    </text>
+   </text-unit>
+  </float>
+ </figures>
+</Document>

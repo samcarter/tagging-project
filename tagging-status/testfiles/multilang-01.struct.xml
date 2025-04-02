@@ -1,0 +1,83 @@
+<Document xmlns="http://iso.org/pdf2/ssn"
+   id="ID.002"
+  >
+ <Sect xmlns="http://iso.org/pdf2/ssn"
+    id="ID.005"
+   >
+  <section xmlns="https://www.latex-project.org/ns/dflt"
+     id="ID.006"
+     rolemaps-to="H1"
+    >
+   <Lbl xmlns="http://iso.org/pdf2/ssn"
+      id="ID.007"
+     >
+    <?MarkedContent page="1" ?>1
+   </Lbl>
+   <?MarkedContent page="1" ?>Foobar
+  </section>
+ </Sect>
+ <Sect xmlns="http://iso.org/pdf2/ssn"
+    id="ID.008"
+   >
+  <section xmlns="https://www.latex-project.org/ns/dflt"
+     id="ID.009"
+     rolemaps-to="H1"
+    >
+   <Lbl xmlns="http://iso.org/pdf2/ssn"
+      id="ID.010"
+     >
+    <?MarkedContent page="1" ?>2
+   </Lbl>
+   <?MarkedContent page="1" ?>???
+  </section>
+  <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+     id="ID.011"
+     rolemaps-to="Part"
+    >
+   <text xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.012"
+      xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+      Layout:TextAlign="Justify"
+      rolemaps-to="P"
+     >
+    <?MarkedContent page="1" ?>
+   </text>
+   <Div xmlns="http://iso.org/pdf2/ssn"
+      id="ID.013"
+     >
+    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.014"
+       rolemaps-to="Part"
+      >
+     <text xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.015"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>As any dedicated reader can clearly see, the Idealof practical reason is a representation of, as far asI know, the things in themselves; as I have shownelsewhere, the phenomena should only be used asa canon for our understanding. The paralogisms ofpractical reason are what first give rise to the archi-tectonic of practical reason. As will easily be shownin the next section, reason would thereby be madeto contradict, in view of these considerations, theIdeal of practical reason, yet the manifold dependson the phenomena. Necessity depends on, when thustreated as the practical employment of the never-ending regress in the series of empirical conditions,time. Human reason depends on our sense percep-tions, by means of analytic unity. There can be nodoubt that the objects in space and time are whatfirst give rise to human reason.
+     </text>
+    </text-unit>
+    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.016"
+       rolemaps-to="Part"
+      >
+     <text xmlns="https://www.latex-project.org/ns/dflt"
+        id="ID.017"
+        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+        Layout:TextAlign="Justify"
+        rolemaps-to="P"
+       >
+      <?MarkedContent page="1" ?>Let us suppose that the noumena have nothing todo with necessity, since knowledge of the Categoriesis a posteriori. Hume tells us that the transcenden-tal unity of apperception can not take account ofthe discipline of natural reason, by means of ana-lytic unity. As is proven in the ontological manuals,it is obvious that the transcendental unity of apper-ception proves the validity of the Antinomies; whatwe have alone been able to show is that, our under-standing depends on the Categories. It remains amystery why the Ideal stands in need of reason. Itmust not be supposed that our faculties have lyingbefore them, in the case of the Ideal, the Antinomies;so, the transcendental aesthetic is just as necessaryas our experience. By means of the Ideal, our senseperceptions are by their very nature contradictory.
+     </text>
+    </text-unit>
+   </Div>
+   <text xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.018"
+      rolemaps-to="P"
+     >
+    <?MarkedContent page="1" ?>
+   </text>
+  </text-unit>
+ </Sect>
+</Document>

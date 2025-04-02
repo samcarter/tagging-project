@@ -1,0 +1,90 @@
+<Document xmlns="http://iso.org/pdf2/ssn"
+   id="ID.002"
+  >
+ <Table xmlns="http://iso.org/pdf2/ssn"
+    id="ID.005"
+   >
+  <TR xmlns="http://iso.org/pdf2/ssn"
+     id="ID.006"
+    >
+   <TH xmlns="http://iso.org/pdf2/ssn"
+      id="ID.007"
+      xmlns:Table="http://iso.org/pdf/ssn/Table"
+      Table:Scope="Column"
+     >
+    <?MarkedContent page="1" ?>amount
+   </TH>
+   <TH xmlns="http://iso.org/pdf2/ssn"
+      id="ID.008"
+      xmlns:Table="http://iso.org/pdf/ssn/Table"
+      Table:Scope="Column"
+     >
+    <?MarkedContent page="1" ?>ingredient
+   </TH>
+   <TH xmlns="http://iso.org/pdf2/ssn"
+      id="ID.009"
+      xmlns:Table="http://iso.org/pdf/ssn/Table"
+      Table:Scope="Column"
+     >
+    <?MarkedContent page="1" ?>step
+   </TH>
+  </TR>
+  <Artifact xmlns="http://iso.org/pdf2/ssn"
+     id="ID.010"
+    >
+   <TD xmlns="http://iso.org/pdf2/ssn"
+      id="ID.011"
+     >
+    <?MarkedContent page="1" ?>ingredient
+   </TD>
+   <TD xmlns="http://iso.org/pdf2/ssn"
+      id="ID.012"
+     >
+    <?MarkedContent page="1" ?>ingredient
+   </TD>
+   <TD xmlns="http://iso.org/pdf2/ssn"
+      id="ID.013"
+     >
+    <?MarkedContent page="1" ?>ingredient
+   </TD>
+  </Artifact>
+  <TR xmlns="http://iso.org/pdf2/ssn"
+     id="ID.014"
+    >
+   <TD xmlns="http://iso.org/pdf2/ssn"
+      id="ID.015"
+     >
+    <?MarkedContent page="1" ?>150g
+   </TD>
+   <TD xmlns="http://iso.org/pdf2/ssn"
+      id="ID.016"
+     >
+    <?MarkedContent page="1" ?>ice cream
+   </TD>
+   <TD xmlns="http://iso.org/pdf2/ssn"
+      id="ID.017"
+     >
+    <?MarkedContent page="1" ?>put into bowl
+   </TD>
+  </TR>
+  <TR xmlns="http://iso.org/pdf2/ssn"
+     id="ID.018"
+    >
+   <TD xmlns="http://iso.org/pdf2/ssn"
+      id="ID.019"
+     >
+    <?MarkedContent page="1" ?>50g
+   </TD>
+   <TD xmlns="http://iso.org/pdf2/ssn"
+      id="ID.020"
+     >
+    <?MarkedContent page="1" ?>cherries
+   </TD>
+   <TD xmlns="http://iso.org/pdf2/ssn"
+      id="ID.021"
+     >
+    <?MarkedContent page="1" ?>heat up and add to bowl
+   </TD>
+  </TR>
+ </Table>
+</Document>

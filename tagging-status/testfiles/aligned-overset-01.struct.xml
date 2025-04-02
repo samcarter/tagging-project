@@ -1,0 +1,62 @@
+<Document xmlns="http://iso.org/pdf2/ssn"
+   id="ID.002"
+  >
+ <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+    id="ID.005"
+    rolemaps-to="Part"
+   >
+  <Formula xmlns="http://iso.org/pdf2/ssn"
+     id="ID.006"
+     title="align"
+     af="tag-AFfile1.tex"
+     xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+     Layout:Placement="Block"
+    >
+   <Formula xmlns="http://iso.org/pdf2/ssn"
+      id="ID.007"
+      title="align (part)"
+      alt="subformula"
+     >
+    <?MarkedContent page="1" ?>f(x)Def=x+x
+    <Lbl xmlns="http://iso.org/pdf2/ssn"
+       id="ID.008"
+      >
+     <?MarkedContent page="1" ?>(1)
+    </Lbl>
+    <?MarkedContent page="1" ?>
+   </Formula>
+   <Formula xmlns="http://iso.org/pdf2/ssn"
+      id="ID.009"
+      title="align (part)"
+      alt=" &amp;=2x"
+     >
+    <?MarkedContent page="1" ?>= 2x
+    <Lbl xmlns="http://iso.org/pdf2/ssn"
+       id="ID.010"
+      >
+     <?MarkedContent page="1" ?>(2)
+    </Lbl>
+    <?MarkedContent page="1" ?>
+   </Formula>
+  </Formula>
+ </text-unit>
+ <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+    id="ID.011"
+    rolemaps-to="Part"
+   >
+  <text xmlns="https://www.latex-project.org/ns/dflt"
+     id="ID.012"
+     xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+     Layout:TextAlign="Justify"
+     rolemaps-to="P"
+    >
+   <?MarkedContent page="1" ?>
+   <Lbl xmlns="http://iso.org/pdf2/ssn"
+      id="ID.013"
+     >
+    <?MarkedContent page="1" ?>(1)
+   </Lbl>
+   <?MarkedContent page="1" ?>
+  </text>
+ </text-unit>
+</Document>
